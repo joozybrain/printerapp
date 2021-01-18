@@ -1,4 +1,4 @@
-##Console Printer App
+#Console Printer App
 A simple console app that accepts 2 arguments: An alphabet and the size of the alphabet, and print out the alphabet on the console with the size specified.
 
 ## Getting Started
